@@ -9,4 +9,4 @@
 [SPMBadge]: https://img.shields.io/badge/SPM-compatible-brightgreen.svg
 [SPMLink]: https://github.com/apple/swift-package-manager
 
-Framework to help creating Xcode extensions.
+Framework to help creating Xcode extensions. See details in wiki. 
